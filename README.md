@@ -15,7 +15,7 @@ A lightweight PySide 6 GUI for searching Hugging Face repositories and downloa
 ```bash
 # Clone the repository
 git clone https://github.com/mysamed/Hugging-Face-Ultra-Downloader.git
-cd HF_Downloader
+cd Hugging_Face_Ultra_Downloader
 
 # (Optional) create a virtual environment
 python -m venv venv
